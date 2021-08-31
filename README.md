@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Dataset schema
 
-The dataset contains piracy attack data and historical country indicators for 1994 until the end of 2020.
+The dataset contains piracy attack data and historical country indicators for 1993 until the end of 2020.
 
 ![The database schema.](img/dataset_schema.png?raw=true)
 
