@@ -63,6 +63,10 @@ The dataset contains piracy attack data and historical country indicators for 19
 
 P Benden, A Feng, C Howell and GV Dalla Riva.
 
+## Please Cite
+
+Benden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). Crime at Sea: A Global Database of Maritime Pirate Attacks (1993–2020). Journal of Open Humanities Data, 7: 19, pp. 1–6. DOI: https://doi.org/10.5334/johd.39
+
 ## Acknowledgements
 
 This dataset would not have been possible without the work of the [International Maritime Bureau (IMB)](https://www.icc-ccs.org/) and [Professor Brandon C. Prins](https://brandonprins.weebly.com/index.html).
