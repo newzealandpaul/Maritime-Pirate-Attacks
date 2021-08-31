@@ -2,7 +2,9 @@
 
 This dataset contains information from more than 7,500 maritime pirate attacks that took place between January 1993 and December 2020, as well as country indicator data for the same time period. The pirate attack data was collected from the International Maritime Bureau (IMB), tidied, and augmented with geospatial data. The country indicator data was sourced from a variety of sources, notably The World Bank. The data is contained in Comma Separated Value (CSV) files. The reuse potential includes its use by anti-piracy organisations and researchers, as well as commercial businesses, in the understanding and prevention of maritime piracy. 
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work was published in the [Journal of Open Humanities Data (JOHD)](https://doi.org/10.5334/johd.39) in 2021. Please cite this article if you use the dataset.
+
+Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ![Pirate Attacks in East Africa 1993 - 2020.](img/east_africa_plot.png?raw=true)
 
